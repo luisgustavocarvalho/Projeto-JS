@@ -2,10 +2,10 @@
 <strong>CurrencyConvert</strong> é uma aplicação web para conversão de moedas, desenvolvida com o objetivo de oferecer uma interface simples e funcional para a realização de cálculos de conversão monetária em tempo real. Ideal para quem precisa de uma ferramenta rápida e intuitiva para saber o valor convertido entre diferentes moedas.
 
 <h2>Preview do Site</h2>
-<img src="">
+<img src="https://github.com/luisgustavocarvalho/currency-convert-javascript/blob/main/assets/PageCurrencyConvert.jpeg?raw=true">
 
 <h2>Preview da Moeda Convertida</h2>
-<img src="">
+<img src="https://github.com/luisgustavocarvalho/currency-convert-javascript/blob/main/assets/ScreenConvertedCurrency.jpeg?raw=true">
 
 <h2>🎨 Interface e Design</h2>
 A interface do CurrencyConvert foi desenvolvida com foco na simplicidade e acessibilidade. Cada elemento foi pensado para facilitar o uso da ferramenta, permitindo uma navegação intuitiva e rápida.
