@@ -12,7 +12,7 @@ A interface do CurrencyConvert foi desenvolvida com foco na simplicidade e acess
 
 <h2>📋 Tecnologias Utilizadas</h2>
 <p><b>HTML5:</b> Estrutura do conteúdo.</p>
-<p><b>CSS3:</b> Estilização e Design Responsivo.</p>
+<p><b>CSS3:</b> Estilização.</p>
 <p><b>JavaScript:</b> Lógica de conversão e manipulação dos dados de entrada fornecidos pelo usuário.</p>
 
 <h2>⚙️ Funcionalidades</h2>
