@@ -16,7 +16,7 @@ A interface do CurrencyConvert foi desenvolvida com foco na simplicidade e acess
 <p><b>JavaScript:</b> Lógica de conversão e manipulação dos dados de entrada fornecidos pelo usuário.</p>
 
 <h2>⚙️ Funcionalidades</h2>
-<p><b>Seleção da moeda:</b> O usuário pode selecionar a moeda de destino para realizar a conversão.
+<><b>Seleção da moeda:</b> O usuário pode selecionar a moeda de destino para realizar a conversão.
 <p><b>Entrada de valor:</b> O usuário insere o valor que deseja converter, que será calculado e exibido na tela.</p>
 <p><b>Conversão em tempo real:</b> Após a seleção das moedas e a entrada do valor, o resultado é resultado imediato.</p>
 
@@ -30,6 +30,9 @@ Para utilizar o CurrencyConvert, siga os passos abaixo:
 </ol>
 
 Não é necessária a instalação de bibliotecas adicionais ou configuração de ambiente. Basta abrir o arquivo e começar a usar.
+
+Também é possível utilizar o CurrencyConvert acessando o link abaixo:
+https://luisgustavocarvalho.github.io/currency-convert-javascript/
 
 <h2>📂 Estrutura do Projeto</h2>
 📁 CurrencyConvert<br>
