@@ -52,7 +52,7 @@ function convertValues() {
 }
 
 function changeCurrency() {
-  const currencyName = document.getElementsByClassName("currency-name");
+  const currencyName = document.getElementById("currency-name");
   const currencyImage = document.querySelector(".currency-img");
 
   if (currencySelect.value == "dolar") {
